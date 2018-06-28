@@ -59,4 +59,4 @@ Si no:
 
 Mejor incluir ruta completa hasta los archivos
 
-- java -jar "jar-generado" "ruta del excel de carga"
+- java -jar "jar-generado" load "ruta del excel de carga"
